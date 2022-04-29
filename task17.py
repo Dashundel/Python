@@ -9,11 +9,7 @@ p = 1
 num = list(range(-n, n + 1))
 print(num)
 
-data = open('file.txt', 'w') 
-
-for i in range(1, n // 2):
-    data.writelines(f'{randint(1, n) - 1}\n')
-data.close() 
+сс
 
 data = open('file.txt', 'r') 
      
