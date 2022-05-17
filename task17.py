@@ -9,8 +9,6 @@ p = 1
 num = list(range(-n, n + 1))
 print(num)
 
-сс
-
 data = open('file.txt', 'r') 
      
 for i in data:
